@@ -27,6 +27,5 @@ _The environment is set to qt6ct_
 ## Screenshots
 <img width="1917" height="1079" alt="1760682642_grim" src="https://github.com/user-attachments/assets/88fbff9e-1efe-4600-a840-1e14bd003063" />
 **Upcoming**
-<img width="1914" height="1076" alt="1760682695_grim" src="https://github.com/user-attachments/assets/d122ee6c-208d-4911-8bfb-d72073152f74" />
-
+- mpd + ncmpcpp
 Will clean up later...
